@@ -1,0 +1,110 @@
+ID,function,use,example to ask,,comment
+,,,left context,stimulus,
+1.1.,additivity,NP focus,John has left.,Bill has left too.,Here and in the following examples it is advisable to check the possibililty of placing the additive in different linear positions.
+1.2.,,VP focus,Mary ate.,Mary also slept.,
+1.3.,,complex VP,John insulted Ann. ,John also hit Bill.,"Some additives cannot be attached to the finite verb, but can have VP focus attaching to the direct object or other dependent, i.e. *V-ADD vs *[OBJ V-ADD] vs [OBJ-ADD V]"
+1.4.,,CP focus,"Everyone prepared something for the dinner. Mary cooked a soup, Ann baked bread.","Also, Sue cut up the vegetables. ",
+1.5.,,incremental additivity,Mary bought 5 apples.,"The next day, she bought another 4 apples. [Now she has 9 apples.]","The right context is used to avoid possible confusion with non-additive ""The next day, she bought 4 more apples (than today)"" (which results in 14 apples in total)"
+1.6.,,,[You are doing the cleaning and have finished you room faster than the others. They are still working. You ask your mom:],- What else can I do?,
+1.7.,,non-anaphoric additivity,- How was the wedding?,"- It was nice, even the head of the village came!","Replace ""the head of the village"" with whatever is relevant for your consultants and supports the scalar inference (the inference of low likelihood/expectedness)."
+1.8.,,non-anaphoric additivity with contextually clear scalar inference,- Is this a difficult problem?,"- No, even my son can solve it.","The supposed scalar inference is: my son can solve it => I can solve it.
+We hypothesize that it can help to accomodate the additive inference ('I can solve it').
+We suggest checking these examples not one after another because of their similiarity."
+1.9.,,non-anaphoric additivity with an overt alternative and contextually clear scalar inference,- Can you solve this problem?,- Even my son can solve it.,
+2.1.,scalarity,upward entailing,Everyone knows this.,Even kids know this.,
+2.2.,,non-additive,"At lunch, I usually drink two glasses of water.",But today I drank even three.,"This context is supposed to be incompatible with simple additive meaning due to the lack of an appropriate alternative, cf. acceptable ""At lunch, I usually drink two glasses of water. Today, I drank two glasses of water, too"".
+The unaccaptance of the additive in question in this example shows that the scalar meaning in 2.1. is the result of coersion and that the additive is actually ""anti-scalar""."
+2.3.,,clausemate negation,[Someone says that John was making noise during the class. You strongly disagree:],,"The following examples test compatiblity with minimizers in different contexts. We suggest avoiding the use of 'one' as a minimizer in these examples, if possible, because 'one-(NP)-ADD' can be subject to grammaticalization/lexicalization which results in idiosyncratic behaviour, cf. Japanese data in Yoshimura 2007."
+2.4.,,superordinate negation,- John bought this book a long time ago. Has he read it?,- I don't think he even read a page.,
+2.5.,,monoclausal non-negative downward entailing (DE),- How much time will it take for Mary to bake a pie?,- Even an hour will be enough for her.,
+2.6.,,,- This bucket costs 10 dollars.,"- Even five dollars is too much for it!
+",
+2.7.,,multiclausal non-negative DE,- Does John drink wine?,"- No. If John drinks even a sip, he will feel bad.","Drinking alchohol may be inappropariate in some socieites. In this case specify that John is not a part of this comminity, or change the example appropriately."
+2.8.,,strongest proposition with high endpoint in focus,"- There are two pies for John.
+- He's very hungry.",I don't think even three pies will be enough for him.,"Some scalar additive particles are only compatible with low endpoint denoting items, regardless of the strength of the local and the global propostion, e.g. German auch nur (Koenig 1991). This constraint is tested here."
+2.9.,,polar question,,Did John read even a page?,
+2.10.,,imperative,,Read even one page!,
+2.11.,,inherent additivity,,I though that John is a colonel but he's even a general.,"Replace ""cononel"" and ""general"" with whatever is relevant for your consultants. The alternatives has to be mutally incompatible (we assume that a person cannot be a colonel and a general at the same time) and ordered on some scale which is well-known to your consultants, e.g. assistant professor and associate professor."
+2.12.,,,,"- Is he a colonel? - No, he's even a general.",
+2.13.,scalarity (optional),question focusing ,- Lets go to Hushe at the weekend.,- Where is that even?,"If needed, replace ""Hushe"" with some other location which whereabouts are supposed to be obscure."
+2.14.,,,[John sang very poorly at the wedding.],- Is he even a singer?,
+2.15,,presupposition denial,- Will John come with the wife?,- He is not even married!,"The example has to contain negation, see Francis 2024."
+3.1,coordination ,"NP coordination, collective","John weighs 60 kg, Bill weighs 40 kg.",John and Bill weigh 100 kg.,"The following variants should be checked:
+X ADD Y
+X Y ADD
+X ADD Y ADD / ADD X ADD Y
+
+Aslo, if a separate conjunction marker (conj) is available:
+X CONJ ADD Y
+X ADD CONJ Y
+X CONJ Y ADD
+ADD X CONJ ADD Y / X ADD CONJ Y ADD"
+3.2,,,,John and Bill hugged.,
+3.3,,"NP coordination, distributive",,John and Bill weight 100 kg. [They weigh 200 kg in total.],
+3.4,,"NP, associated conjuncts",,The mother and the father came.,
+3.5,,,,Wash your hands and legs,
+3.6,,"NP coordination, 3 conjuncts",,"John, Bill and Alex are sleeping. ",
+3.7,,AP coordination,,Mary is a beautiful and clever girl.,
+3.8,,VP coordination,,Mary woke up and ate. ,"If there are strictly finite and optionally finite (e.g. converbs or participles can be used as finite matrix verbs) verb forms in the language, check VP conjunction with both.
+If the languages uses ""clause chaining"" for coordination (i.e. V-NON.FIN V-FIN), check whether the additive can be used and, if yes, in which positions."
+3.9,,complex VP coordination,,Mary cooked lunch and did the dishes.,"Some additives cannot be attached to the finite verb and cannot coordinate VPs without dependents, but can be used for VP coordination of complex VPs, attaching to the direct object or other dependent, e.g. *[V-ADD V-ADD] vs [OBJ-ADD V OBJ-ADD V]"
+3.10,,CP coordination ,,"It is raining, and the wind is blowing.",
+3.11,,CP coordination with across-the-board movement,,Who is loved by children and respected by adults?,"This and the next example are supposed to check whether additive is used for acutal syntactic coordination, rather than as a ""discourse connective"" (cf. moreover, in addition to this)
+This test can be inapplicable for independent reasons, e.g. due to incompatibility of the additive enclitic with the question-marking enclitic."
+3.12,,CP coordination with right node raising,Who prepared the fish/potatoes?,Mary cleaned and Sue fried it.,This test can be inapplicable because this construction may be absent in the language for independent reasons. 
+3.13,,causal relation ,,"The clouds parted, and the sun came out.",
+3.14,,disjunction,,Buy five or six apples! ,"Check whether additive marker(s) can appear in a disjunction, e.g. DISJ-ADD X, DISJ-ADD Y; X DISJ-ADD Y"
+3.15,,exaustive coordination ,Did you invite John or Bill?,I invited both John and Bill,
+3.16,,non-exhaustive coordination,"Did you inivite John, Bill or Ted?",I invited John and Bill,
+3.17,coordination (optional),out of the blue,Who came yesterday?,John and Bill came yesterday.,
+4.1,comitative,,,Yesterday John came to the wedding with Mary.,"To avoid confusion with NP coordination, the comitative phrase must be linearly separated from the subject. If the post-verbal position is unacceptable, a temporal or locative adjunct can be used to separate the subject from the comitative phrase linearly. Verb number agreement can also help distinguish comitative constructions from NP coordination."
+5.1,contrast,adversative ,,"Mary got sick, but she (still) went to work.","The position of an additive marker distinguishes between the concessive (see 7.1 below) and the adversative use. If the additive is in the first clause ('Mary got sick'), it is concessive. Otherwise, it is adversative."
+5.2,,oppositive,Who bought what? ,"John bought bread, and Bill bought meat.",
+5.3,,corrective,,John is not a doctor but a teacher.,
+6.1,pragmatic,mirative,"We were planning to go to the city, got into the car, but it didn't start. You exclaim:
+","- Wow, the car’s not working! What a surprise!",Additives tend to be sentence-final when used in these contexts. We suggest paying special attention to the possibility/obligatoriness of sentence-final use.
+6.2,,,You're at your friend's concert and you hear how beautifully she sings. You exclaim:,"Oh, the way she sings!",
+6.3,,verum focus,You touch the child's forehead and notice it feels hot. Then you take a thermometer and measure their temperature. It is very high. You say:,The child is actually sick. ,
+6.4,,emphatic assertion of identity,May I come tomorrow?,It’s today that you must come.,
+6.5,,enimitive,Why is John limping?,Because he did fall off a horse!,
+7.1,concessive,"standard, past tense",,"Although John was sick, he still went to school.","Here and in the following examples an additive is expected to mark the antecedent clause, e.g. the verb in the conditional form. If other markers are present, check whether they can be omitted. Also, check the obligatoriness of the additive and control the meaning of the sentence with and without it."
+7.2,,"standard, non past tense",,"Although it rains, we will go for a walk.",
+7.3,,scalar concessive conditional,,"Even if it rains, we will go for a walk.",
+7.4,,universal concessive conditional (unconditional),,"Whoever comes, don't wake me.",In this example there is no position in the main clause for a (covert) pronoun coreferential with the subject of the whoever-clause. This is used to avoid a confusion with correlative construction.
+7.5,,correlative,,"Whatever Mary cooks, John likes it.",
+7.6,,alternative concessive conditional,,"Whether it rains or not, we will go for a walk.",
+8.1,compound numerals,,,There are 127 houses in our village.,
+9.1,exhaustive / distributive reading with numerals,numeral 'two',There are only three boys and two girls in the class.,Today both girls has come.,"For each example in this section check if it is possible to add universal quantifier as well. The following combination should be tested:
+NUM=ADD NP, NUM NP=ADD,
+UQ=ADD NUM NP, UQ NUM=ADD NP, UQ NUM NP=ADD,
+UQ=ADD NUM=ADD NP
+For each variant check whether the additive can be omitted."
+9.2,,numeral 'two' without noun,John only has two friends and he invited them.,Both came.,
+9.3,,numerals higher than 'two',John invited five friends.,All five friends came.,
+9.4,,exhaustivity,John invited five friends.,Four friends came.,Check with the additive.
+10.1,quantifiers,"universal, distributive",,All the children have come. [We can start the class.] ,"Establish the inventory of universal quantifier words in the language. Check each UQ in the contexts below with and without additive. Also, check acceptability of the additive in different positions (after UQ vs. after NP). "
+10.2,,"universal, distributive, without noun",,Everyone has come. [We can start the class.] ,The absence of the NP restrictor in the quantifier phrase is supposed to be the only difference between 10.1 and 10.2.
+10.3,,"universal, completeness ('whole')",John and Mary had a house. A fire broke down.,The whole house burned down.,
+10.4,,"universal, completeness ('whole')",John and Mary had a house. A fire broke down.,The whole (house) burned down.,The absence of the NP restrictor in the quantifier phrase is supposed to be the only difference between 10.3 and 10.4. (Unlike in 10.1-10.2 this difference cannot be reflected in the English stimuli.)
+10.5,quantifiers (optional),above the mid point ('most'),John invited his classmates to the birthday party.,Most classmates have come.,Check whether the additive can be added to QPs here.
+10.6,,the mid point ('half'),John invited his classmates to the birthday party.,Half of the classmates have come.,
+11.1,distributivity (optional),"personal pronoun, distributive",John had 3 friends.,"They bought a house. [So, they bought 3 houses in total.]","Here and in the next example, the additive is supposed to mark the personal pronoun 'they', cf. Mandarin data in Lin 1998."
+11.1.,,"personal pronoun, collective",John had 3 friends.,They bought a house. [It was very large.],
+,,"NP, distributive",[There were 5 boys and 5 girls in the class. The boys brought the drinks for the party.],"The girls brought a pie. [So, there were 5 pies in total.]","Here and in the next example, the additive is supposed to the NP 'the girls'. There should be no quantifier words (just NP-ADD). Actually, we are not aware of any language with such a construction."
+11.2,,"NP, collective",[There were 5 boys and 5 girls in the class. The boys brought the drinks for the party.],The girls brought a pie. [It was very tasty.],
+12.1,indefinite pronouns,specific known,,I want to say you something. It is very important.,"Additives can have different hosts when forming indefinites. The most common are wh-words (wh-ADD), numeral 'one' (one-XP-ADD) and concessive conditional clauses (e.g. wh-be-if-ADD).
+For a full description of the use of an additive in this function, find out which indefinite series with additive marking are present in the langauge and check each of them throughout the contexts in this section."
+12.2,,,,"Someone called, guess who.",
+12.3,,specific unknown,,"Someone knocked on the door, but I didn't open.",
+12.4,,,,I've lost my keys somewhere. Now I have to find them.,
+12.5,,irrealis non-specific,[John is hungry. You tell him:],Eat something.,
+12.6,,,"[Your car has broken down, you're standing on the road and don't know what to do. You say]
+",I think someone will help us.,
+12.7,,question,[You see a house on top of a mountain. You point at the house and ask:],Does anyone live there?,
+12.8,,conditional,[Upon leaving home you say to those who are staying],"If anyone comes, call me.",
+12.9,,comparative,John will win the competition for sure.,John runs faster than anyone.,
+12.10,,direct negation,,Nobody came.,
+12.11,,indirect negation,,I don't think that anyone speaks 1000 languages.,
+12.12,,free choice,Your friend comes over and wants some water. You say: Here is the water.,You can use any cup.,
+12.13,,generic,,Anyone can add two and two.,
+12.14,,non-modal universal quantification,I invited a lot of people.,Everyone came.,
